@@ -18,6 +18,33 @@ This project is a starting point for a Flutter application.
 
 ---
 
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](C:\Users\susha\OneDrive\Pictures\Screenshots\Screenshot (2391).png)
+
+### Login Screen
+![Login Screen](C:\Users\susha\OneDrive\Pictures\Screenshots\Screenshot (2392).png)
+
+### Sign Up Screen
+![Sign Up Screen](C:\Users\susha\OneDrive\Pictures\Screenshots\Screenshot (2393).png)
+
+### Articles Screen
+![Articles Screen](C:\Users\susha\OneDrive\Pictures\Screenshots\Screenshot (2394).png)
+
+---
+
+## 📋 Screens Overview
+
+| Screen | Description |
+|--------|-------------|
+| Home | Welcome message + Login & Sign Up buttons |
+| Login | Email & password fields + form check |
+| Sign Up | Same as login (UI only) |
+| Articles | Fetched articles shown in list view |
+
+---
+
 ## 📲 Tech Stack
 
 - **Flutter (3.x)**
