@@ -1,4 +1,4 @@
-# Mobile App Developer Assignment - Parts 1 & 2
+# Mobile App Developer Assignment - Part 2
 
 
 
