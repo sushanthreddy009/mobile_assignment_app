@@ -15,22 +15,21 @@ This project is a starting point for a Flutter application.
 - 📰 **Articles Screen** that fetches and displays dummy articles using a public API
 - 🔁 Smooth **navigation** between screens
 - 🛡️ **Basic form validation** (checks for empty fields)
-
 ---
 
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](C:\Users\susha\OneDrive\Pictures\Screenshots\Screenshot (2391).png)
+![Home Screen](screenshots/Screenshot%20(2391).png)
 
 ### Login Screen
-![Login Screen](C:\Users\susha\OneDrive\Pictures\Screenshots\Screenshot (2392).png)
+![Login Screen](screenshots/Screenshot%20(2392).png)
 
 ### Sign Up Screen
-![Sign Up Screen](C:\Users\susha\OneDrive\Pictures\Screenshots\Screenshot (2393).png)
+![Sign Up Screen](screenshots/Screenshot%20(2393).png)
 
 ### Articles Screen
-![Articles Screen](C:\Users\susha\OneDrive\Pictures\Screenshots\Screenshot (2394).png)
+![Articles Screen](screenshots/Screenshot%20(2394).png)
 
 ---
 
@@ -42,6 +41,7 @@ This project is a starting point for a Flutter application.
 | Login | Email & password fields + form check |
 | Sign Up | Same as login (UI only) |
 | Articles | Fetched articles shown in list view |
+
 
 ---
 
