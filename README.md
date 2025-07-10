@@ -20,7 +20,7 @@ This project is a starting point for a Flutter application.
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/Screenshot%20(2391).png)
+![Home Screen](screenshots/Screenshot 2025-07-10 170923.png)
 
 ### Login Screen
 ![Login Screen](screenshots/Screenshot%20(2392).png)
